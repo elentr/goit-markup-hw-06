@@ -1077,11 +1077,11 @@ button {
 
     .ftr-social {
         width: 208px;
-        margin-right: 80px;
     }
 
     .mail-form {
         flex-direction: column;
+        margin-left: 80px;
     }
 
     .form-input {
