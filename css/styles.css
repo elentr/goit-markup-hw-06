@@ -751,6 +751,7 @@ button {
     .team-list {
         flex-direction: row;
         flex-wrap: wrap;
+        /* flex-basis: calc((100% - 24px) / 2); */
         gap: 64px 24px;
     }
 }
@@ -1072,6 +1073,11 @@ button {
 
     .ftr-logo {
         margin-right: 120px;
+    }
+
+    .ftr-social {
+        width: 208px;
+        /* margin-right: 80px; */
     }
 
     .mail-form {
